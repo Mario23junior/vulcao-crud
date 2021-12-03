@@ -1,5 +1,5 @@
 # vulcao-crud
-<p align="center"><img src="/projeto-git/" width = "834px"></p>
+<p align="center"><img src="/projeto-git/logo.gif" width = "534px"></p>
 
 <h1 align="center">vulcao-crud</h1>
 
